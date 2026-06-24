@@ -1,0 +1,4 @@
+debounce.html : Open this file to read the documentation
+
+Doxyfile : file to genereate documentation with Doxygen
+html : folder that contains the entire documentation
